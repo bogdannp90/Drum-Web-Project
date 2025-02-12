@@ -48,6 +48,8 @@ footer {
 .set {
   margin: 10%;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .pressed {
